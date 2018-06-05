@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting_Website", "Greeting_Website\Greeting_Website.csproj", "{7DF6F8C3-DD28-4E11-AA67-6CC6B7C4E12C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greetings_Website.test", "Greetings_Website.test\Greetings_Website.test.csproj", "{4A0F6961-ADEC-42FD-B3B1-8540A4C74671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF6F8C3-DD28-4E11-AA67-6CC6B7C4E12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6F8C3-DD28-4E11-AA67-6CC6B7C4E12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF6F8C3-DD28-4E11-AA67-6CC6B7C4E12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6F8C3-DD28-4E11-AA67-6CC6B7C4E12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0F6961-ADEC-42FD-B3B1-8540A4C74671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0F6961-ADEC-42FD-B3B1-8540A4C74671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0F6961-ADEC-42FD-B3B1-8540A4C74671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0F6961-ADEC-42FD-B3B1-8540A4C74671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
