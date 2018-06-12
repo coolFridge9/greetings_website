@@ -3,12 +3,13 @@ using Xunit;
 
 namespace Greetings_Website.test
 {
-    public class RequestOrganiserShould
+    public class WebsiteHosterShould
     {
         [Fact]
         public void PrintGreetingOnPostRequest()
         {
-            //var requestOrganiser = new RequestOrganiser();
+            var webHoster = new WebsiteHoster();
+            webHoster.HostWebsite(new string[]{});
             
         }
         
