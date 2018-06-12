@@ -1,3 +1,4 @@
+using Greeting_Website;
 using Xunit;
 
 namespace Greetings_Website.test
@@ -7,13 +8,9 @@ namespace Greetings_Website.test
         [Fact]
         public void PrintGreetingOnPostRequest()
         {
-            var requestOrganiser = new RequestOrganiser();
+            //var requestOrganiser = new RequestOrganiser();
             
         }
         
-    }
-
-    public class RequestOrganiser
-    {
     }
 }
